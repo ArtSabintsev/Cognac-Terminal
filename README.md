@@ -1,4 +1,4 @@
-# Cognac 🥃 for Xcode
+# Cognac 🥃 for Terminal
 An Alluring, Dark, and Muted Theme For The macOS Terminal.
 
 ## About
